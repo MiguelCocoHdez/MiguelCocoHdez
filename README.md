@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador de software apasionado por la tecnología, la creación de soluciones prácticas y el aprendizaje constante. Me especializo en el desarrollo fullstack, con experiencia en tecnologías modernas como Java con Spring Boot, JavaScript/TypeScript, Angular, React y Docker.<br><br>- 📚 Actualmente me estoy dedicando a aumentar mis conocimientos mediante proyectos personales, para conseguir experiencia.<br>-💡 Me interesa el desarrollo de aplicaciones que aporten valor real a las personas.<br>- ⚡ Me gusta relacionarme con otras personas, mantenerme activo y hacer deporte. Creo en el equilibrio entre el desarrollo profesional y el bienestar personal.</p>
+<p align="left">Soy un desarrollador de software apasionado por la tecnología, la creación de soluciones prácticas y el aprendizaje constante. Me especializo en el desarrollo fullstack, con experiencia en tecnologías modernas como Java con Spring Boot, JavaScript/TypeScript, Angular, React y Docker.<br><br>- 📚 Actualmente me estoy dedicando a aumentar mis conocimientos mediante proyectos personales , para conseguir experiencia y buscando un empleo. Actualmente tengo el título de Desarrollo de Apliaciones Multiplataforma.<br>-💡 Me interesa el desarrollo de aplicaciones que aporten valor real a las personas.<br>- ⚡ Me gusta relacionarme con otras personas, mantenerme activo y hacer deporte. Creo en el equilibrio entre el desarrollo profesional y el bienestar personal.</p>
 
 ###
 
